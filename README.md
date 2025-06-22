@@ -82,7 +82,8 @@ You can view the full ER Diagram here:
 
 **Name**: Adewole Benjamin Oyediran  
 **Project**: Zoo Shop Database  
-**Email**: bensha2019@outlook.com 
+**Email**: bensha2019@outlook.com
+
 **LinkedIn**: https://www.linkedin.com/in/adewole-oyediran
 
 ---
