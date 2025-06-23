@@ -63,6 +63,8 @@ This schema adheres to **Third Normal Form (3NF)**:
 
 ## 🗺️ ER Diagram
 
+![ER Diagram]([https://example.com/my-picture.png](https://github.com/Bensha93/Zoo-Shop-Inventory-Sales-Management-System./blob/main/Zoo%20Shop%20-%20ERD.png))
+
 You can view the full ER Diagram here:  
 📎 [Lucidchart ERD](https://lucid.app/lucidchart/b969963d-2b7f-4d08-bb97-2bc27998fba2/edit?invitationId=inv_e3836027-6936-4156-ac94-494568839749&page=0_0)
 
