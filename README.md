@@ -40,6 +40,8 @@ The system design follows best practices in database normalization, ensures one-
 
 ## 🔗 Relationships & Constraints
 
+![Logo](Zoo Shop - ERD.png)
+
 - `Customer → Sale`: One customer can place many orders
 - `Sale → Sale_product`: A sale can include many products
 - `Sale → Sale_pet`: A sale can include pet(s)
